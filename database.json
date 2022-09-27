@@ -1,0 +1,94 @@
+{
+  "cups": [
+    {
+      "id": "5154E9B3-8BD7-3C0A-E142-E4848C147243",
+      "title": "Atago",
+      "description": "Developed from the Myoko-class cruisers. When commissioned, Atago was one of the most powerful heavy cruisers in the world. The ship surpassed the speed of all Japan's potential rival cruisers. For her time, Atago was well-armored with efficient AA armament, along with powerful artillery and torpedoes.",
+      "images": [
+        "https://img.youtube.com/vi/pg2YnKBOZ30/maxresdefault.jpg"
+        
+      ],
+      "liked": false,
+      "price": 40.99,
+      "categoryId": "2",
+      "materialTypeId": "1",
+      "colorId": "1"
+    },
+    {
+      "id": "D23A657F-CBEC-9639-2E85-7CA56B098603",
+      "title": "Missouri",
+      "description": "One of the Iowa-class battleships that were the fastest ships of this type in the world. She carried very powerful main battery guns, and boasted excellent AA defense and reliable torpedo protection.",
+      "images": [
+        "https://wowsp-wows-eu.wgcdn.co/dcont/fb/image/tmb/1a002cde-9c42-11e6-81a7-ac162d8bc1e4_1200x.jpg"
+      ],
+      "liked": true,
+      "price": 42.99,
+      "categoryId": "1",
+      "materialTypeId": "1",
+      "colorId": "2"
+    },
+    {
+      "id": "12A4CD9E-F969-7106-0E70-A8214ED12111",
+      "title": "Dunkerque",
+      "description": "A high-speed battlecruiser designed to counter German heavy cruisers. The ship had good torpedo protection, carried numerous dual-purpose guns and had powerful horizontal armor. Her main turrets were placed in the fore end thus making any aft firing scenarios impossible.",
+      "images": [
+        "https://wowsp-wows-sg.wgcdn.co/dcont/fb/image/tmb/52e28188-5f98-11ea-9096-38eaa7374f3c_1200x.jpg"
+      ],
+      "liked": true,
+      "price": 18.99,
+      "categoryId": "1",
+      "materialTypeId": "2",
+      "colorId": "1"
+    },
+    {
+      "id": "5F7922A2-19DB-CAD4-4291-1B137C44D066",
+      "title": "London",
+      "description": "The lead ship in the second series of County-class cruisers—British Washington Treaty cruisers armed with eight powerful 203 mm guns. The cruiser was rebuilt during extensive modernization undertaken in the late 1930s, which changed the ship's exterior and reinforced her armor and AA batteries.",
+      "liked": false,
+      "price": 14.99,
+      "images": [
+        "https://thedailybounce.net/wp-content/uploads/2019/10/k3nll9722or31.jpg"
+      ],
+      "categoryId": "2",
+      "materialTypeId": "1",
+      "colorId": "2"
+    },
+    {
+      "id": "815C5D64-820D-2DCD-10AA-59EE2D0BC780",
+      "title": "Moskva",
+      "description": "Sank by Ukrainian forces in 2022. This ship is a shame of Putin.",
+      "images": [
+        "https://i.ytimg.com/vi/X0kK8QsCeG8/maxresdefault.jpg"
+      ],
+      "liked": false,
+      "price": 0,
+      "categoryId": "3",
+      "materialTypeId": "2",
+      "colorId": "3"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "Cruizer"
+    },
+    {
+      "id": "2",
+      "title": "Battleship"
+    },
+    {
+      "id": "3",
+      "title": "Destroyer"
+    }
+  ],
+  "materialTypes": [
+    {
+      "id": "1",
+      "title": "Tier VIII"
+    },
+    {
+      "id": "2",
+      "title": "Tier VI"
+    }
+  ]
+}
